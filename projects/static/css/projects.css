@@ -1,0 +1,15 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: fill;
+}
+
+.card {
+    width: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+    .card-img-top{
+        height: 30vw;
+    }
+  }
